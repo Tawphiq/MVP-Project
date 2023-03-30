@@ -5,7 +5,7 @@ import Project from './Project'
 
 const Landing = () => {
   return (
-    <div className='grid bg-white p-10'>
+    <div className='grid p-10'>
       
       <Header />
       <Hero />

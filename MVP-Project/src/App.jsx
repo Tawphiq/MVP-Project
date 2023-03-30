@@ -1,9 +1,10 @@
 import React from 'react'
 import Landing from './components/Landing'
 
+
 const App = () => {
   return (
-    <div className='bg-blue-100 h-screen p-10'>
+    <div className='min-h-screen p-10 bg-bgGame bg-cover bg-opacity-50' >
       <Landing />
     </div>
   )

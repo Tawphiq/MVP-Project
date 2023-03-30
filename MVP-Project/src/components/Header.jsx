@@ -7,7 +7,7 @@ const Header = () => {
     <header className='grid grid-cols-2'>
       <img src = {logo1} alt=""  className='h-12 w-24 cursor-pointer'/>
       <nav>
-        <ul className='grid grid-cols-3 text-blue-800 text-lg font-semibold'>
+        <ul className='grid-cols-3 text-white hidden text-2xl font-bold'>
         <li><a href="#">Home</a></li>
         <li><a href="#">About</a></li>
         <li><a href="#">Contact</a></li>
